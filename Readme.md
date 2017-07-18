@@ -3,3 +3,4 @@ Black
 Blue
 Red
 Green
+Cyan
