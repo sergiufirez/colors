@@ -9,3 +9,5 @@ Purple
 Magenta
 Brown
 Grey
+Orange
+Pink
