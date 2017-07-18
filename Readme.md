@@ -15,3 +15,5 @@ Strawberry
 Prune
 Berry
 Blueberry
+Potato
+Radish
