@@ -13,3 +13,5 @@ Orange
 Pink
 Strawberry
 Prune
+Berry
+Blueberry
