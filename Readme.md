@@ -4,3 +4,4 @@ Blue
 Red
 Green
 Yellow
+Cyan
