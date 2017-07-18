@@ -6,3 +6,4 @@ Green
 Yellow
 Cyan
 Purple
+Magenta
