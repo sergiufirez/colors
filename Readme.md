@@ -7,3 +7,4 @@ Yellow
 Cyan
 Purple
 Magenta
+Brown
