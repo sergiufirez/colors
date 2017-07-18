@@ -11,3 +11,4 @@ Brown
 Grey
 Orange
 Pink
+Strawberry
